@@ -7,11 +7,11 @@ with the condition is that you remove every Kth element while looping through th
 The number of elements in the list may vary, and so may K, which means that the last element remaining depends on the input.
 
 ## KMP algorithm
-The Knuth-Morris-Pratt (KMP) algorithm is used to search for patterns(substrings) within a text. 
+The Knuth-Morris-Pratt (KMP) algorithm is used to search for patterns(substrings) within a text.    |
 ![KMP](https://github.com/user-attachments/assets/7f1ae35e-e059-46d2-87cd-88197101ee95)
 
 ## Infix to postfix 
-This project was to solve polynomial equations by converting them from infix notation to postfix notation, before evaluating the result.
+This project was to solve polynomial equations by converting them from infix notation to postfix notation, before evaluating the result.    
 ![infix-to-outfix](https://github.com/user-attachments/assets/08135e43-6a72-4039-b92d-60ba5a88703b)
 
 ## Interpolation search
