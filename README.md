@@ -12,7 +12,8 @@ The Knuth-Morris-Pratt (KMP) algorithm is used to search for patterns(substrings
 
 ## Infix to postfix 
 This project was to solve polynomial equations by converting them from infix notation to postfix notation, before evaluating the result.    
-![infix-to-outfix](https://github.com/user-attachments/assets/08135e43-6a72-4039-b92d-60ba5a88703b)
+![infix-to-outfix](https://github.com/user-attachments/assets/51623fd1-60b8-4314-9bf8-8b5ad19b556a)
+
 
 ## Interpolation search
 Interpolation Search is a searching algorithm used to find an element's position in a sorted array of values. Interpolation Search estimates the likely position of the target element based on its value. It works by calculating a probe position within the array, typically using a linear interpolation formula. This implementation will work on both integers, floats and strings.
