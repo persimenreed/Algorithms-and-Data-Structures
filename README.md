@@ -24,5 +24,5 @@ This program is a task scheduling system using a priority queue based on a heap 
 ## Floyd-Warshall algorithm
 This program computes the shortest paths between all pairs of routers in a network after entering the adjacency matrix.
 ![Floyd-warshall](https://github.com/user-attachments/assets/841e4d38-d1b9-4860-8abe-574a3ccaa83e)
-![floyd-2](https://github.com/user-attachments/assets/8be29bce-0729-4a54-8f20-46fe27c72311)
+![floyd-2](https://github.com/user-attachments/assets/8be29bce-0729-4a54-8f20-46fe27c72311)    
 The screenshot show output for a given adjacency matrix. The top part of the output simulates the input. The second part of the output show the shortest paths after the matrix has gone through the Floyd-Warshall algorithm, where new paths has been found. The last part of the output show the routing table for each of the nodes, which in this screenshot, only the routing tables for the first 3 nodes in the network.
